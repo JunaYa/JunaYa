@@ -5,11 +5,11 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaya&layout=compact&langs_count=4&hide=javascript,html,css"/>
 </p>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaozhuox&theme=prussian&hide=html,css,dockerfile,shell,ejs,stylus,javascript&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrxiaozhuox&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaya&theme=prussian&hide=html,css,dockerfile,shell,ejs,stylus,javascript&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junaya&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrxiaozhuox&theme=dracula"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=junaya&theme=dracula"/>
 </p>
 <!--
 **JunaYa/JunaYa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
