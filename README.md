@@ -2,6 +2,9 @@
 
 ### 格物致知
 
+### 技能
+Rust | JavaScript | TypeScript | Html | CSS | SASS | LESS
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaya&theme=prussian&hide=html,css,dockerfile,shell,ejs,stylus,javascript&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=junaya&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true"/>
