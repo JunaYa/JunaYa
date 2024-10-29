@@ -1,3 +1,15 @@
+## 👋 Welcome to my page
+
+## 🛠 My Skills
+
+### Language
+
+![Language](https://skillicons.dev/icons?i=js,ts,dart,rust)
+
+### Framework
+
+![Framework](https://skillicons.dev/icons?i=vue,react,flutter,axum)
+
 ### Hi there 👋
 
 <p align="center">
