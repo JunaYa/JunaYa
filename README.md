@@ -8,7 +8,7 @@
 
 ### Framework
 
-![Framework](https://skillicons.dev/icons?i=vue,react,flutter,axum)
+![Framework](https://skillicons.dev/icons?i=vue,react,flutter,axum,tauri)
 
 ### Hi there 👋
 
